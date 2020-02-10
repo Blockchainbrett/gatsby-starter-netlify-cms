@@ -2,7 +2,7 @@
 templateKey: index-page
 title: TwoTTs for Life
 image: /img/Bio1.png
-heading: Great coffee with a conscience
+heading: TERMINAL and IPFS are LIT
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
